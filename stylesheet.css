@@ -40,7 +40,7 @@ div {
 .nav {
   background-color: #f9aec6;
   max-width: 40%;
-  min-width: 160px;
+  width: 200px;
   flex: 1;
 }
 
