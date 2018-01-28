@@ -31,7 +31,7 @@ div {
 }
 
 .main {
-  background-color: #feedff;
+  background-color: #ffd6f6;
   padding-left: 30px;
   min-width: 75%;
 }
@@ -39,10 +39,12 @@ div {
 .nav {
   background-color: #f9aec6;
   max-width: 40%;
-  min-width: 140px;
+  min-width: 160px;
   flex: 1;
+  font-family: sans-serif;
+  color: #ffffff;
 }
 
-.nav h1 {
+.nav h3 {
   padding-left: 20px;
 }
