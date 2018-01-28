@@ -1,6 +1,5 @@
 html, body {
   font-family: sans-serif;
-  color: #ffffff;
   margin: 0;
   width: 100%;
   height: 100%;
@@ -33,6 +32,7 @@ div {
 
 .main {
   background-color: #ffeffe;
+  color: #5e575d;
   padding-left: 30px;
   min-width: 75%;
 }
