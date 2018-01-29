@@ -8,6 +8,7 @@ html, body {
 h2 {
   font-size: 35px;
   color: #ffffff;
+  text-align: center;
 }
 
 p {
@@ -47,4 +48,9 @@ div {
 
 .nav h3 {
   padding-left: 20px;
+}
+.greets {
+  background-image:
+  url("https://1.bp.blogspot.com/-Yf1u8t_nusE/V1nY0VlDHOI/AAAAAAAAC1k/SZnL35gIYewhjsD_-RHVNGAjmUHJaajcQCLcB/s640/bthumb_IMG_2327_1024.jpg");
+  background-size: cover;
 }
